@@ -55,20 +55,40 @@ button.white-button {
 
     /* task section */
 #task-section{
-    border: 3px solid rgb(81, 0, 255);
     padding: 5%;
 }
 
-.task {
+.task-name {
     width: 100%;
+}
+
+.task {
+    margin: 10px 0;
 }
 
 .editorial {
     border: 1px solid #b4c1d0;
-    border-radius: 15px;
+    border-radius: 10px;
     background-color: rgb(33, 177, 255);
-    padding: 10px;
-    font-size: 10px;
+    font-size: 8px;
+    padding: 5px;
     color: #ffffff;
+}
+
+.check {
+    border-radius: 70%;
+    font-size: smaller;
+    padding: 2px;
+
+}
+
+.check-green {
+    border: 2px solid rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+}
+
+.check-red {
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
 }
 

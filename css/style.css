@@ -74,7 +74,7 @@ button.white-button {
 .label {
     border: 1px solid #b4c1d0;
     border-radius: 10px;
-    font-size: 8px;
+    font-size: 10px;
     padding: 5px;
     color: #ffffff;
 }
@@ -86,7 +86,17 @@ button.white-button {
 }
 
 .green-button {
-    background-color: #00ff04f5;
+    background-color: #00ad03f5;
+    color: #ffffff;
+}
+
+.orange-button {
+    background-color: #e59d00f5;
+    color: #ffffff;
+}
+
+.pink-button {
+    background-color: #ff8bf7f5;
     color: #ffffff;
 }
 

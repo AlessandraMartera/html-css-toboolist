@@ -13,11 +13,13 @@ header {
 }
 
 #logo {
+    line-height: 50px;
     vertical-align: middle;
 }
 
 #title {
     line-height: 50px;
+    vertical-align: middle;
 }
 
 /* main */
@@ -68,15 +70,16 @@ button.white-button {
     margin: 15px 0;
 }
 
+    /* label settings */
 .label {
     border: 1px solid #b4c1d0;
     border-radius: 10px;
-    background-color: rgb(33, 177, 255);
     font-size: 8px;
     padding: 5px;
     color: #ffffff;
 }
 
+    /* color label settings */
 .violette-button {
     background-color: #9200d1f5;
     color: #ffffff;
@@ -87,6 +90,7 @@ button.white-button {
     color: #ffffff;
 }
 
+    /* check settings */
 .check {
     border-radius: 70%;
     font-size: smaller;

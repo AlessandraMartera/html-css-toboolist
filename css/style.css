@@ -1,5 +1,22 @@
 /* general settings */
 
 body {
+    margin: 0;
     background-color: #e2eefc;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
+/* header */
+header {
+    background-color: #ffffff;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 5px 20px;
+}
+
+ #title {
+    line-height: 50px;
+    vertical-align: text-top;
+}
+
+

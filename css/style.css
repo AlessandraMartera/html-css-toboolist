@@ -26,24 +26,24 @@ header {
 /* main */
 #container {
     width: 80%;
-    height: 500px;
     background-color: #ffffff;
-    margin: 5px auto;
+    margin: 40px auto;
     border-radius: 15px;
 }
 
     /* buttom section */
 #button-section {
     border-bottom: 2px solid #e2eefc;
-    padding: 10px 40px;
+    padding: 20px 50px;
 }
 
 button {
     border-radius: 5px;
     border: 1px solid #b4c1d0;
+    font-size: medium;
 }
 
-button.blu-button {
+.blu-button {
     background-color: #0081d1f5;
     color: #ffffff;
 }
@@ -55,23 +55,38 @@ button.white-button {
 
     /* task section */
 #task-section{
-    padding: 5%;
-}
-
-.task-name {
-    width: 100%;
+    padding: 3%;
 }
 
 .task {
-    margin: 10px 0;
+    font-size: 20px;
 }
 
-.editorial {
+.task-name {
+    color: gray;
+    font-size: 30px;
+}
+
+.task-element {
+    margin: 15px 0;
+}
+
+.label {
     border: 1px solid #b4c1d0;
     border-radius: 10px;
     background-color: rgb(33, 177, 255);
     font-size: 8px;
     padding: 5px;
+    color: #ffffff;
+}
+
+.violette-button {
+    background-color: #9200d1f5;
+    color: #ffffff;
+}
+
+.green-button {
+    background-color: #00ff04f5;
     color: #ffffff;
 }
 

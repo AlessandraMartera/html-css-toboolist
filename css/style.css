@@ -42,12 +42,12 @@ button {
     font-size: medium;
 }
 
-.blu-button {
+.blu {
     background-color: #0081d1f5;
     color: #ffffff;
 }
 
-button.white-button {
+.white {
     background-color: #ffffff;
     color: #b4c1d0;
 }
@@ -80,22 +80,22 @@ button.white-button {
 }
 
     /* color label settings */
-.violette-button {
+.violette {
     background-color: #9200d1f5;
     color: #ffffff;
 }
 
-.green-button {
+.green {
     background-color: #00ad03f5;
     color: #ffffff;
 }
 
-.orange-button {
+.orange {
     background-color: #e59d00f5;
     color: #ffffff;
 }
 
-.pink-button {
+.pink {
     background-color: #ff8bf7f5;
     color: #ffffff;
 }
